@@ -5,6 +5,4 @@
 <li>Professor: Marcello Novaes De Amorin,Ricardo Mendes Costa Segundo,Susiléa Abreu dos Santos Lima </li>
 <br> DESCRIÇÃO:O projeto em questão, trata-se de uma aplicação Mobile/Web de reservas de pacotes de viagem. O usuário poderá, através da aplicação, comprar passagens de avião e reservar hotéis, pousadas ou resorts para qualquer lugar do mundo.
 <br>
-<br> Link do banco de dados:
-<br>
-https://livesql.oracle.com/apex/livesql/s/j7ze9h6510ii0bjilp56ig63k
+
